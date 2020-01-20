@@ -83,11 +83,11 @@ author:
   name             : "Xinyu Wang"
   avatar           : "profile.png"
   bio              : "MS in Computer Science at ShanghaiTech University"
-  location         : "Location"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "wangxy1@shanghaitech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
