@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: about
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
