@@ -5,7 +5,6 @@ permalink: /publication/acl-2019-second
 excerpt: 'Xinyu Wang, Jingxian Huang and Kewei Tu.'
 date: 2019-07-28
 venue: 'Proceedings of ACL'
-<!-- paperurl: 'https://arxiv.org/pdf/1906.07880.pdf' -->
 ---
 
 [pdf](https://arxiv.org/pdf/1906.07880.pdf)
