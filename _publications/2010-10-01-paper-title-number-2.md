@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "ShanghaiTech at MRP 2019: Sequence-to-Graph Transduction with Second-Order Edge Inference for Cross-Framework Meaning Representation Parsing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Xinyu Wang, Jingxian Huang and Kewei Tu.'
+date: 2019-11-04
+venue: 'Proceedings of CoNLL'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[pdf](https://www.aclweb.org/anthology/K19-2005.pdf)
+[code](https://github.com/wangxinyu0922/Second_Order_SDP)
+[bibtex](https://www.aclweb.org/anthology/K19-2005.bib)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+This paper presents the system used in our submission to the CoNLL 2019 shared task: Cross-Framework Meaning Representation Parsing. Our system is a graph-based parser which combines an extended pointer-generator network that generates nodes and a second-order mean field variational inference module that predicts edges. Our system achieved 1st and 2nd place for the DM and PSD frameworks respectively on the in-framework ranks and achieved 3rd place for the DM framework on the cross-framework ranks.

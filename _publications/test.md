@@ -1,10 +1,10 @@
 ---
-title: "Second-Order Semantic Dependency Parsing with End-to-End Neural Networks"
+title: "ShanghaiTech at MRP 2019: Sequence-to-Graph Transduction with Second-Order Edge Inference for Cross-Framework Meaning Representation Parsing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Xinyu Wang, Jingxian Huang and Kewei Tu.'
-date: 2019-07-28
-venue: 'Proceedings of ACL'
+date: 2019-11-04
+venue: 'Proceedings of CoNLL'
 ---
 
 [pdf](https://arxiv.org/pdf/1906.07880.pdf)
