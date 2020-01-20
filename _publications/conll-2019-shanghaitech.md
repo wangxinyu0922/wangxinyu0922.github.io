@@ -1,9 +1,9 @@
 ---
 title: "ShanghaiTech at MRP 2019: Sequence-to-Graph Transduction with Second-Order Edge Inference for Cross-Framework Meaning Representation Parsing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/conll-2019-shanghaitech.md
 excerpt: 'Xinyu Wang, Jingxian Huang and Kewei Tu.'
-date: 2019-11-04
+date: 2019-11-03
 venue: 'Proceedings of CoNLL'
 ---
 

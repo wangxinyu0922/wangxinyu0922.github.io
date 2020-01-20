@@ -1,7 +1,7 @@
 ---
 title: "Second-Order Semantic Dependency Parsing with End-to-End Neural Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/acl-2019-second
 excerpt: 'Xinyu Wang, Jingxian Huang and Kewei Tu.'
 date: 2019-07-28
 venue: 'Proceedings of ACL'
