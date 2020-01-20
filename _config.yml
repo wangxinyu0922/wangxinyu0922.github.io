@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyu Wang's Site"
 title_separator          : "-"
 name                     : &name "Xinyu Wang"
-description              : &description "MS Student at ShanghaiTech University"
+description              : &description "M.S. at ShanghaiTech University"
 url                      : https://wangxinyu0922.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangxinyu0922/wangxinyu0922.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinyu Wang"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "MS in Computer Science at ShanghaiTech University"
   location         : "Shanghai, China"
   employer         :
@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: false
     permalink: /:collection/:path/
-  about:
-    output: true
-    permalink: /:collection/:path/
+  # about:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults

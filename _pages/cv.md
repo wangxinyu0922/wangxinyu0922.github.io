@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in School of Information Science and Technology, ShanghaiTech University, 2018 - 2021 (expected)
+* B.S. in School of Information Science and Technology, ShanghaiTech University, 2014 - 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern 2019.10 - Present
+  * MIND NLP, Alibaba Damo Academy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language
+  * Mandarin (Native)
+  * English (CET-6 Certificate)
+  * Japanese (JLPT N1 Certificate)
+* Programming
+  * Python
+  * C++
+  * Matlab
 
 Publications
 ======
@@ -42,7 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +46,14 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Program Committee
+  * 2019: CCL, IALP, CoNLL-2019-ST
+* TA
+  * Introduction to Information Science and Technology D (SI100D), 2019
+  * Introduction to Programming (CS100), 2018
+  * Introduction to Information Science and Technology B (SI100B), 2018
+  * Computer Architecture II (CS210), 2017
