@@ -12,5 +12,6 @@ Currently, I'm the second-year master student in School of Information Science a
 
 Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [CV](https://wangxinyu0922.github.io/cv/).
 
-News:
+##News:
+
 Our paper [Structure-Level Knowledge Distillation For Multilingual Sequence Labeling](https://wangxinyu0922.github.io/publication/acl-2020-structure) was accepted to ACL 2020!

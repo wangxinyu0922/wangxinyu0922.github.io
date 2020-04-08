@@ -3,7 +3,7 @@ title: "Structure-Level Knowledge Distillation For Multilingual Sequence Labelin
 collection: publications
 permalink: /publication/acl-2020-structure
 excerpt: 'Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Fei Huang,  Kewei Tu.'
-date: 2019-07-05
+date: 2020-07-05
 venue: 'Proceedings of ACL'
 ---
 
