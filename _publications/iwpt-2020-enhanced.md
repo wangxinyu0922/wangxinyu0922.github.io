@@ -2,7 +2,7 @@
 title: "Enhanced Universal Dependency Parsing with Second-Order Inference and Mixture of Training Data"
 collection: publications
 permalink: /publication/iwpt-2020-enhanced
-excerpt: 'Xinyu Wang, Yong Jiang,  Kewei Tu.'
+excerpt: '**Xinyu Wang**, Yong Jiang,  Kewei Tu.'
 date: 2020-07-05
 venue: 'Proceedings of IWPT (ACL 2020 workshop)'
 ---
