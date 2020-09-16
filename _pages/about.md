@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm the third-year **Ph.D.** student in School of Information Science and Technology, ShanghaiTech University. I'm advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on (semantic) dependency parsing, sequence labeling and multilingual NLP. I'm working as research intern in the [Alibaba Damo Academy](http://damo.alibaba.com). 
+Currently, I'm the third-year Ph.D. student in School of Information Science and Technology, ShanghaiTech University. I'm advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on (semantic) dependency parsing, sequence labeling and multilingual NLP. I'm working as research intern in the [Alibaba Damo Academy](http://damo.alibaba.com). 
 
 Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [CV](https://wangxinyu0922.github.io/cv/).
 
