@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in School of Information Science and Technology, ShanghaiTech University, 2018 - 2021 (expected)
+* Ph.D. in School of Information Science and Technology, ShanghaiTech University, 2018 - 2023 (expected)
 * B.S. in School of Information Science and Technology, ShanghaiTech University, 2014 - 2018
 
 Work experience
@@ -70,6 +70,7 @@ Projects
 Services
 ======
 * Program Committee
+  * 2020: AACL, IALP, PACLIC, AAAI
   * 2019: CCL, IALP, CoNLL-2019-ST
 * TA
   * Introduction to Information Science and Technology D (SI100D), 2019
