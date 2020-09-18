@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/emnlp-2020-empirical
 excerpt: '**Xinyu Wang**, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.'
 date: 2020-11-16
-venue: 'Proceedings of EMNLP'
+venue: 'Findings of EMNLP'
 ---
 
 <!-- [pdf](https://arxiv.org/pdf/1906.07880.pdf)
