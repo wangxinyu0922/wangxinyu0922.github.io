@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm the third-year Ph.D. student in School of Information Science and Technology, ShanghaiTech University. I'm advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on (semantic) dependency parsing, sequence labeling and multilingual NLP. I'm working as research intern in the [Alibaba Damo Academy](http://damo.alibaba.com). 
+Currently, I'm the third-year Ph.D. student in School of Information Science and Technology, ShanghaiTech University. I'm advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on structured prediction ([syntactic](https://wangxinyu0922.github.io/publication/aacl-2020-second)/[semantic](https://wangxinyu0922.github.io/publication/acl-2019-second) dependency parsing, [sequence labeling](https://wangxinyu0922.github.io/publication/emnlp-2020-ain), [NAS](https://wangxinyu0922.github.io/publication/arxiv-2020-ace) in structured prediction), [Knowledge Distillation](https://wangxinyu0922.github.io/publication/arxiv-2020-structural) and [Multilingual NLP](https://wangxinyu0922.github.io/publication/acl-2020-structure). Currently, I'm working as research intern in the [Alibaba Damo Academy](http://damo.alibaba.com) collaborating with [Yong Jiang](http://jiangyong.site). 
 
 Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [CV](https://wangxinyu0922.github.io/cv/).
 
 ## News:
+**2020-10:** Our paper [Automated Concatenation of Embeddings for Structured Prediction](https://wangxinyu0922.github.io/publication/arxiv-2020-ace) was released on the ArXiv. (Under review as a conference paper at ICLR 2021.)
+
+**2020-10:** Our paper [Structural Knowledge Distillation](https://wangxinyu0922.github.io/publication/arxiv-2020-structural) was released on the ArXiv. (Under review as a conference paper at ICLR 2021.)
 
 **2020-09:** Our paper [AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) was accepted to the **Main Conference** of EMNLP 2020!
 
 **2020-09:** Our paper [More Embeddings, Better Sequence Labelers?](https://wangxinyu0922.github.io/publication/emnlp-2020-empirical) was accepted to **Findings** of EMNLP 2020!
 
-**2020-09:** Our paper was accepted to AACL 2020! (Waiting for the result of COLING 2020.)
+**2020-09:** Our paper [Second-Order Neural Dependency Parsing with Message Passing and End-to-End Training](https://wangxinyu0922.github.io/publication/aacl-2020-second) was accepted to AACL 2020!
 
 **2020-04:** Our paper [Structure-Level Knowledge Distillation For Multilingual Sequence Labeling](https://wangxinyu0922.github.io/publication/acl-2020-structure) was accepted to ACL 2020!
 
