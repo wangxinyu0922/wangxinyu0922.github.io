@@ -1,9 +1,9 @@
 ---
-title: "Structure-Level Knowledge Distillation For Multilingual Sequence Labeling"
+title: "Structural Knowledge Distillation"
 collection: publications
 permalink: /publication/arxiv-2020-structural
 excerpt: '**Xinyu Wang**<sup>\*</sup>, Yong Jiang<sup>\*</sup>, Zhaohui Yan<sup>\*</sup>, Zixia Jia<sup>\*</sup>, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Kewei Tu.'
-date: 2020-10-13
+date: 2020-10-12
 venue: 'Arxiv'
 ---
 
