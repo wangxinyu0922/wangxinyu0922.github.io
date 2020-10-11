@@ -25,4 +25,5 @@ Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [C
 
 **2020-04:** Our paper [Structure-Level Knowledge Distillation For Multilingual Sequence Labeling](https://wangxinyu0922.github.io/publication/acl-2020-structure) was accepted to ACL 2020!
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=7dXWzz_BFdF80Bt0k6e0-SW76O_S3FJ2XbK4i4aWW1s&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=7dXWzz_BFdF80Bt0k6e0-SW76O_S3FJ2XbK4i4aWW1s&cl=ffffff&w=a"></script> -->
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=7dXWzz_BFdF80Bt0k6e0-SW76O_S3FJ2XbK4i4aWW1s"></script>
