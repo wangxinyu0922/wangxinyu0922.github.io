@@ -3,7 +3,7 @@ title: "AIN: Fast and Accurate Sequence Labeling with Approximate Inference Netw
 collection: publications
 permalink: /publication/emnlp-2020-ain
 excerpt: '**Xinyu Wang**, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.'
-date: 2020-11-16
+date: 2020-09-15
 venue: 'Proceedings of EMNLP'
 ---
 

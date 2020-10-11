@@ -3,7 +3,7 @@ title: "Second-Order Neural Dependency Parsing with Message Passing and End-to-E
 collection: publications
 permalink: /publication/aacl-2020-second
 excerpt: '**Xinyu Wang**,  Kewei Tu.'
-date: 2020-12-04
+date: 2020-09-10
 venue: 'Proceedings of AACL-IJCNLP'
 ---
 
