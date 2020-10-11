@@ -54,17 +54,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Projects
+Shared Tasks
 ======
-* [Cross-Framework Meaning Representation Parsing](https://wangxinyu0922.github.io/publication/conll-2019-shanghaitech) (CoNLL 2019 shared task)
-  * Developed a graph-based semantic parser for five frameworks.
-  * Our parser achieves the 1st place and 2nd place on in-framework metrics for DM and PSD frameworks respectively, and the 3rd place on cross-framework metrics for DM framework.
-  * The paper has been accepted in the conference of CoNLL 2019.
-* [Second-Order Semantic Dependency Parsing](https://wangxinyu0922.github.io/publication/acl-2019-second)
-  * Developed a way to take interactions between pairs of edges in consideration in the decoding process for semantic dependency parsing and train our network in an end-to-end manner. Our approach achieves state-of-the-art performance.
-  * The paper has been accepted in the conference of ACL 2019.
-* Image Captioning With Scene Graph Information
-  * Developed an image caption model with scene graph information to improve the performance.
+* CCL 2020中文语义依存图分析任务评测 (Chinese Semantic Dependency Graph Parsing Shared Task in CCL 2020)
+  * **Second Place**
+* [IWPT 2020 Shared Task: Parsing into Enhanced Universal Dependencies](https://wangxinyu0922.github.io/publication/iwpt-2020-enhanced)
+  * **Six Place**
+  * **First Place** in the Post-Evaluation Phase
+* [CoNLL 2019 Shared Task: Cross-Framework Meaning Representation Parsing](https://wangxinyu0922.github.io/publication/conll-2019-shanghaitech)
+  * **First Place** in the in-framework DM subtask and **Second Place** in the in-framework PSD subtask.
 
 
 Services
