@@ -13,9 +13,9 @@ Currently, I'm the third-year Ph.D. student in School of Information Science and
 Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [CV](https://wangxinyu0922.github.io/cv/).
 
 ## News:
-**2020-10:** Our paper [Automated Concatenation of Embeddings for Structured Prediction](https://wangxinyu0922.github.io/publication/arxiv-2020-ace) was released on the ArXiv. (Under review as a conference paper at ICLR 2021.)
+**2020-10:** Our paper [Automated Concatenation of Embeddings for Structured Prediction](https://wangxinyu0922.github.io/publication/arxiv-2020-ace) was released on the ArXiv. 
 
-**2020-10:** Our paper [Structural Knowledge Distillation](https://wangxinyu0922.github.io/publication/arxiv-2020-structural) was released on the ArXiv. (Under review as a conference paper at ICLR 2021.)
+**2020-10:** Our paper [Structural Knowledge Distillation](https://wangxinyu0922.github.io/publication/arxiv-2020-structural) was released on the ArXiv. 
 
 **2020-09:** Our paper [AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) was accepted to the **Main Conference** of EMNLP 2020!
 
