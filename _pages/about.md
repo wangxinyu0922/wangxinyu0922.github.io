@@ -13,6 +13,8 @@ Currently, I'm the third-year Ph.D. student in School of Information Science and
 Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [CV](https://wangxinyu0922.github.io/cv/).
 
 ## News:
+**2021-04:** I got *Excellent Intern* award, which is for the top 12 outstanding interns at Alibaba Group in 2020. 
+
 **2020-10:** Our paper [Automated Concatenation of Embeddings for Structured Prediction](https://wangxinyu0922.github.io/publication/arxiv-2020-ace) was released on the ArXiv. 
 
 **2020-10:** Our paper [Structural Knowledge Distillation](https://wangxinyu0922.github.io/publication/arxiv-2020-structural) was released on the ArXiv. 

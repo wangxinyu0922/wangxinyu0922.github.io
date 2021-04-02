@@ -79,6 +79,7 @@ Services
 
 Awards
 ======
+* Excellent Intern: for outstanding interns at Alibaba Group in 2020.
 * Learning Scholarship: for graduate students, 2018, 2019.
 * Outstanding Student: for outstanding students who had contribution to the University, 2017, 2019.
 * Outstanding Scholarship: for top 15% student in ShanghaiTech University, 2016, 2017.
