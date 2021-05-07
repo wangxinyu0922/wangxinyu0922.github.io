@@ -1,10 +1,10 @@
 ---
 title: "Automated Concatenation of Embeddings for Structured Prediction"
 collection: publications
-permalink: /publication/arxiv-2020-ace
+permalink: /publication/acl-2021-ace
 excerpt: '**Xinyu Wang**, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Kewei Tu.'
-date: 2020-10-13
-venue: 'Arxiv'
+date: 2021-05-06
+venue: 'Proceedings of ACL'
 ---
 
 <!-- [pdf](https://arxiv.org/pdf/1906.07880.pdf)

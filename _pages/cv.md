@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in School of Information Science and Technology, ShanghaiTech University, 2018 - 2023 (expected)
+* Ph.D. in School of Information Science and Technology, ShanghaiTech University, 2020 - 2023 (expected)
+* M.S. in School of Information Science and Technology, ShanghaiTech University, 2018 - 2020
 * B.S. in School of Information Science and Technology, ShanghaiTech University, 2014 - 2018
 
 Work experience

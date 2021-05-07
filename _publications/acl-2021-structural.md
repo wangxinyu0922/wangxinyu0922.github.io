@@ -1,10 +1,10 @@
 ---
 title: "Structural Knowledge Distillation"
 collection: publications
-permalink: /publication/arxiv-2020-structural
+permalink: /publication/acl-2021-structural
 excerpt: '**Xinyu Wang**<sup>\*</sup>, Yong Jiang<sup>\*</sup>, Zhaohui Yan<sup>\*</sup>, Zixia Jia<sup>\*</sup>, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Kewei Tu.'
-date: 2020-10-12
-venue: 'Arxiv'
+date: 2021-05-06
+venue: 'Proceedings of ACL'
 ---
 
 <!-- [pdf](https://arxiv.org/pdf/1906.07880.pdf)
