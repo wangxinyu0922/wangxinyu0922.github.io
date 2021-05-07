@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm the first-year Ph.D. student in School of Information Science and Technology, ShanghaiTech University. I'm advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on **Structured Prediction** ([Syntactic](https://wangxinyu0922.github.io/publication/aacl-2020-second)/[Semantic](https://wangxinyu0922.github.io/publication/acl-2019-second) Dependency Parsing, [Sequence Labeling](https://wangxinyu0922.github.io/publication/emnlp-2020-ain), [NAS](https://wangxinyu0922.github.io/publication/arxiv-2020-ace) in structured prediction), [**Knowledge Distillation**](https://wangxinyu0922.github.io/publication/arxiv-2020-structural) and [**Multilingual NLP**](https://wangxinyu0922.github.io/publication/acl-2020-structure). Currently, I'm working as research intern in the [Alibaba Damo Academy](http://damo.alibaba.com) collaborating with [Yong Jiang](http://jiangyong.site). 
+Currently, I'm the first-year Ph.D. student in School of Information Science and Technology, ShanghaiTech University. I'm advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on **Structured Prediction** ([Syntactic](https://wangxinyu0922.github.io/publication/aacl-2020-second)/[Semantic](https://wangxinyu0922.github.io/publication/acl-2019-second) Dependency Parsing, [Sequence Labeling](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) (such as [Named Entity Recognition](https://wangxinyu0922.github.io/publication/acl-2021-retrieval)), [Neural Architecture Search](https://wangxinyu0922.github.io/publication/acl-2021-ace) in structured prediction), [**Knowledge Distillation**](https://wangxinyu0922.github.io/publication/acl-2021-structural) and [**Multilingual NLP**](https://wangxinyu0922.github.io/publication/acl-2020-structure). Currently, I'm working as research intern in the [Alibaba Damo Academy](http://damo.alibaba.com) collaborating with [Yong Jiang](http://jiangyong.site). 
 
 Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [CV](https://wangxinyu0922.github.io/cv/).
 
@@ -16,7 +16,7 @@ Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [C
 
 **2021-05:** Our paper [Automated Concatenation of Embeddings for Structured Prediction](https://wangxinyu0922.github.io/publication/acl-2021-ace) was accepted to the **Main Conference** of ACL 2021!
 
-**2021-05:** Our paper [Structural Knowledge Distillation](https://wangxinyu0922.github.io/publication/acl-2021-structural) was accepted to the **Main Conference** of ACL 2021!
+**2021-05:** Our paper [Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor](https://wangxinyu0922.github.io/publication/acl-2021-structural) was accepted to the **Main Conference** of ACL 2021!
 
 **2021-05:** Our paper [Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning](https://wangxinyu0922.github.io/publication/acl-2021-retrieval) was accepted to the **Main Conference** of ACL 2021!
 

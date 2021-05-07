@@ -1,5 +1,5 @@
 ---
-title: "Structural Knowledge Distillation"
+title: "Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor"
 collection: publications
 permalink: /publication/acl-2021-structural
 excerpt: '**Xinyu Wang**<sup>\*</sup>, Yong Jiang<sup>\*</sup>, Zhaohui Yan<sup>\*</sup>, Zixia Jia<sup>\*</sup>, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Kewei Tu.'
