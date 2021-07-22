@@ -20,7 +20,7 @@ Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [C
 
 **2021-05:** Our paper [Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning](https://wangxinyu0922.github.io/publication/acl-2021-retrieval) was accepted to the **Main Conference** of ACL 2021!
 
-**2021-04:** I got *Excellent Intern* award, which is for the top 12 outstanding interns at Alibaba Group in 2020. 
+**2021-04:** I got **Excellent Intern** award, which is for the top 12 outstanding interns at Alibaba Group in 2020. 
 
 **2020-09:** Our paper [AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) was accepted to the **Main Conference** of EMNLP 2020!
 
