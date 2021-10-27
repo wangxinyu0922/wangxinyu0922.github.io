@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* Research Intern, 2019.10 - Present
+* Visiting Research Fellow, 2021.08 - Now
+  * Singapore University of Technology and Design. Advised by Prof. Lu Wei
+* Research Intern, 2019.10 - 2021.10
   * Alibaba Damo Academy
 
 Interests
@@ -57,6 +59,8 @@ Teaching
   
 Shared Tasks
 ======
+* [IWPT 2021 Shared Task: Parsing into Enhanced Universal Dependencies](https://wangxinyu0922.github.io/publication/iwpt-2021-enhanced)
+  * **Second Place**
 * CCL 2020中文语义依存图分析任务评测 (Chinese Semantic Dependency Graph Parsing Shared Task in CCL 2020)
   * **Second Place**
 * [IWPT 2020 Shared Task: Parsing into Enhanced Universal Dependencies](https://wangxinyu0922.github.io/publication/iwpt-2020-enhanced)
@@ -69,7 +73,8 @@ Shared Tasks
 Services
 ======
 * Program Committee
-  * 2020: AACL, IALP, PACLIC, AAAI
+  * 2021: AAAI, EMNLP, JIFS
+  * 2020: AACL, IALP, PACLIC
   * 2019: CCL, IALP, CoNLL-2019-ST
 * TA
   * Introduction to Information Science and Technology D (SI100D), 2019
@@ -80,7 +85,7 @@ Services
 
 Awards
 ======
-* Excellent Intern: for outstanding interns at Alibaba Group in 2020.
+* [Excellent Intern](https://damo.alibaba.com/events/114): for outstanding interns at Alibaba Group in 2020.
 * Learning Scholarship: for graduate students, 2018, 2019.
 * Outstanding Student: for outstanding students who had contribution to the University, 2017, 2019.
 * Outstanding Scholarship: for top 15% student in ShanghaiTech University, 2016, 2017.
