@@ -59,6 +59,8 @@ Teaching
   
 Shared Tasks
 ======
+* [SemEval 2022 Shared Task: MultiCoNER]()
+  * Winner of 10 out of 13 tracks
 * [IWPT 2021 Shared Task: Parsing into Enhanced Universal Dependencies](https://wangxinyu0922.github.io/publication/iwpt-2021-enhanced)
   * **Second Place**
 * CCL 2020中文语义依存图分析任务评测 (Chinese Semantic Dependency Graph Parsing Shared Task in CCL 2020)
@@ -73,7 +75,7 @@ Shared Tasks
 Services
 ======
 * Program Committee
-  * 2021: AAAI, EMNLP, JIFS
+  * 2021: AAAI, EMNLP, JIFS, Proc-IEEE
   * 2020: AACL, IALP, PACLIC
   * 2019: CCL, IALP, CoNLL-2019-ST
 * TA
@@ -85,6 +87,7 @@ Services
 
 Awards
 ======
+* National Scholarship: for outstanding student in 2021.
 * [Excellent Intern](https://damo.alibaba.com/events/114): for outstanding interns at Alibaba Group in 2020.
 * Learning Scholarship: for graduate students, 2018, 2019.
 * Outstanding Student: for outstanding students who had contribution to the University, 2017, 2019.
