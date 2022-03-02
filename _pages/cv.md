@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Visiting Research Fellow, 2021.08 - Now
+* Visiting Research Fellow, 2021.10 - Now
   * Singapore University of Technology and Design. Advised by Prof. Lu Wei
 * Research Intern, 2019.10 - 2021.10
-  * Alibaba Damo Academy
+  * Alibaba Damo Academy. Excellent Intern
 
 Interests
 ======
@@ -59,7 +59,7 @@ Teaching
   
 Shared Tasks
 ======
-* [SemEval 2022 Shared Task: MultiCoNER]()
+* [SemEval 2022 Shared Task: MultiCoNER](https://wangxinyu0922.github.io/publication/semeval-2022-kb)
   * Winner of 10 out of 13 tracks
 * [IWPT 2021 Shared Task: Parsing into Enhanced Universal Dependencies](https://wangxinyu0922.github.io/publication/iwpt-2021-enhanced)
   * **Second Place**

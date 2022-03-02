@@ -14,7 +14,7 @@ Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [C
 
 ## News:
 
-**2022-02:** Our system wins the MultiCoNER shared task over 10 out of 13 tracks ([detailed rankings](https://multiconer.github.io/results))!
+**2022-02:** Our system wins the MultiCoNER shared task over 10 out of 13 tracks! [Detailed rankings](https://multiconer.github.io/results), [Paper](https://wangxinyu0922.github.io/publication/semeval-2022-kb)
 
 **2021-05:** Our paper [Automated Concatenation of Embeddings for Structured Prediction](https://wangxinyu0922.github.io/publication/acl-2021-ace) was accepted to the **Main Conference** of ACL 2021!
 
