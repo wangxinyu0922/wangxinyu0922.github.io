@@ -2,7 +2,7 @@
 title: "DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition"
 collection: publications
 permalink: /publication/semeval-2022-kb
-excerpt: '**Xinyu Wang**, Yongliang Shen, Jiong Cai, Tao Wang, Xiaobin Wang, Pengjun Xie, Fei Huang, Weiming Lu, Yueting Zhuang, Kewei Tu, Wei Lu, Yong Jiang.'
+excerpt: '**Xinyu Wang**<sup>\*</sup>, Yongliang Shen<sup>\*</sup>, Jiong Cai<sup>\*</sup>, Tao Wang, Xiaobin Wang, Pengjun Xie, Fei Huang, Weiming Lu, Yueting Zhuang, Kewei Tu, Wei Lu, Yong Jiang.'
 date: 2022-03-01
 venue: 'Proceedings of ACL'
 ---
