@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/arxiv-2022-multimodal
 excerpt: '**Xinyu Wang**, Min Gui, Yong Jiang, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Kewei Tu.'
 date: 2021-12-14
-venue: 'Proceedings of ACL'
+venue: 'arXiv'
 ---
 
 <!-- [pdf](https://arxiv.org/pdf/1906.07880.pdf)
