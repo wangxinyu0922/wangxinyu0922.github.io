@@ -14,7 +14,7 @@ Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [C
 
 ## News:
 
-**2022-04** Our paper [ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition](https://wangxinyu0922.github.io/publication/naacl-2022-multimodal) was accepted to the **Main Conference** of NAACL 2021!
+**2022-04** Our paper [ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition](https://wangxinyu0922.github.io/publication/naacl-2022-multimodal) was accepted to the **Main Conference** of NAACL 2022!
 
 **2022-02:** Our system wins the SemEval-2022 [Multilingual Complex Named Entity Recognition](https://multiconer.github.io/results) shared task over 10 out of 13 tracks! [Paper](https://wangxinyu0922.github.io/publication/semeval-2022-kb)
 
