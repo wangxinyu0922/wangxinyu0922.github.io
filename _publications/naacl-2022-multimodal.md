@@ -1,10 +1,10 @@
 ---
 title: "ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition"
 collection: publications
-permalink: /publication/arxiv-2022-multimodal
+permalink: /publication/naacl-2022-multimodal
 excerpt: '**Xinyu Wang**, Min Gui, Yong Jiang, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Kewei Tu.'
 date: 2021-12-14
-venue: 'arXiv'
+venue: 'NAACL Main Conference'
 ---
 
 <!-- [pdf](https://arxiv.org/pdf/1906.07880.pdf)

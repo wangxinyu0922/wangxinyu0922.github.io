@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/semeval-2022-kb
 excerpt: '**Xinyu Wang**<sup>\*</sup>, Yongliang Shen<sup>\*</sup>, Jiong Cai<sup>\*</sup>, Tao Wang, Xiaobin Wang, Pengjun Xie, Fei Huang, Weiming Lu, Yueting Zhuang, Kewei Tu, Wei Lu, Yong Jiang.'
 date: 2022-03-01
-venue: 'arXiv'
+venue: 'SemEval 2022'
 ---
 
 <!-- [pdf](https://arxiv.org/pdf/1906.07880.pdf)
