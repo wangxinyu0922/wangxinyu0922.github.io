@@ -4,8 +4,10 @@ collection: publications
 permalink: /publication/semeval-2022-kb
 excerpt: '**Xinyu Wang**<sup>\*</sup>, Yongliang Shen<sup>\*</sup>, Jiong Cai<sup>\*</sup>, Tao Wang, Xiaobin Wang, Pengjun Xie, Fei Huang, Weiming Lu, Yueting Zhuang, Kewei Tu, Wei Lu, Yong Jiang.'
 date: 2022-03-01
-venue: 'SemEval 2022 (Best System Paper at SemEval 2022)'
+venue: 'SemEval'
 ---
+
+**Best System Paper at SemEval 2022**
 
 <!-- [pdf](https://arxiv.org/pdf/1906.07880.pdf)
 [code](https://github.com/wangxinyu0922/Second_Order_SDP)
