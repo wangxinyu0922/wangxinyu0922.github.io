@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm the second-year Ph.D. student in School of Information Science and Technology, ShanghaiTech University. I'm advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on **Structured Prediction** ([Syntactic](https://wangxinyu0922.github.io/publication/aacl-2020-second)/[Semantic](https://wangxinyu0922.github.io/publication/acl-2019-second) Dependency Parsing, [Sequence Labeling](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) (such as [Named Entity Recognition](https://wangxinyu0922.github.io/publication/acl-2021-retrieval)), [Neural Architecture Search](https://wangxinyu0922.github.io/publication/acl-2021-ace) in structured prediction), [**Knowledge Distillation**](https://wangxinyu0922.github.io/publication/acl-2021-structural) and [**Multilingual NLP**](https://wangxinyu0922.github.io/publication/acl-2020-structure). I was interning at the [Alibaba Damo Academy](http://damo.alibaba.com) collaborating with [Yong Jiang](http://jiangyong.site). Currently, I'm visiting [Prof. Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei)'s lab as a visiting research fellow at [SUTD](https://istd.sutd.edu.sg/).
+Currently, I'm the final-year Ph.D. student in School of Information Science and Technology, ShanghaiTech University. I'm advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on **Structured Prediction** ([Syntactic](https://wangxinyu0922.github.io/publication/aacl-2020-second)/[Semantic](https://wangxinyu0922.github.io/publication/acl-2019-second) Dependency Parsing, [Sequence Labeling](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) (such as [Named Entity Recognition](https://wangxinyu0922.github.io/publication/acl-2021-retrieval)), [Neural Architecture Search](https://wangxinyu0922.github.io/publication/acl-2021-ace) in structured prediction), [**Knowledge Distillation**](https://wangxinyu0922.github.io/publication/acl-2021-structural) and [**Multilingual NLP**](https://wangxinyu0922.github.io/publication/acl-2020-structure). I was interning at the [Alibaba Damo Academy](http://damo.alibaba.com) collaborating with [Yong Jiang](http://jiangyong.site). Currently, I'm visiting [Prof. Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei)'s lab as a visiting research fellow at [SUTD](https://istd.sutd.edu.sg/).
 
 Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [CV](https://wangxinyu0922.github.io/cv/).
 
 ## News:
 
-**2022-04** I am looking for job opportunities starting from 2023. Feel free to [contact with me](mailto:wangxy1@shanghaitech.edu.cn)!
+**2022-07** Our paper [A Knowledge-based System for Multilingual Named Entity Recognition](https://arxiv.org/pdf/2203.00545.pdf) wins the **Best System Paper Award** (top 0.45%=1/221) at SemEval 2022!
 
 **2022-04** Our paper [ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition](https://wangxinyu0922.github.io/publication/naacl-2022-multimodal) was accepted to the **Main Conference** of NAACL 2022!
 
