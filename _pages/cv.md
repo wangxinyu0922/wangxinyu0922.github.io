@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Visiting Research Fellow, 2021.10 - Now
+* Visiting Research Fellow, 2021.10 - 2022.10
   * Singapore University of Technology and Design. Advised by [Prof. Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei).
 * Research Intern, 2019.10 - 2021.10
   * Alibaba Damo Academy. Excellent Intern. Advised by [Yong Jiang](http://jiangyong.site).
