@@ -18,9 +18,9 @@ Education
 Work experience
 ======
 * Visiting Research Fellow, 2021.10 - Now
-  * Singapore University of Technology and Design. Advised by Prof. Lu Wei
+  * Singapore University of Technology and Design. Advised by [Prof. Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei).
 * Research Intern, 2019.10 - 2021.10
-  * Alibaba Damo Academy. Excellent Intern
+  * Alibaba Damo Academy. Excellent Intern. Advised by [Yong Jiang](http://jiangyong.site).
 
 Interests
 ======
@@ -75,6 +75,7 @@ Shared Tasks
 Services
 ======
 * Program Committee
+  * 2022: EMNLP, ACML
   * 2021: AAAI, EMNLP, JIFS, Proc-IEEE
   * 2020: AACL, IALP, PACLIC
   * 2019: CCL, IALP, CoNLL-2019-ST
@@ -87,6 +88,7 @@ Services
 
 Awards
 ======
+* SemEval 2022 [Best System Paper](https://semeval.github.io/SemEval2022/awards).
 * National Scholarship: for outstanding student in 2021.
 * [Excellent Intern](https://damo.alibaba.com/events/114): for outstanding interns at Alibaba Group in 2020.
 * Learning Scholarship: for graduate students, 2018, 2019.
