@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in School of Information Science and Technology, ShanghaiTech University, 2020 - 2023 (expected)
-* M.S. in School of Information Science and Technology, ShanghaiTech University, 2018 - 2020
+* Ph.D. in School of Information Science and Technology, ShanghaiTech University, 2018 - 2023
 * B.S. in School of Information Science and Technology, ShanghaiTech University, 2014 - 2018
 
 Work experience
@@ -88,6 +87,7 @@ Services
 
 Awards
 ======
+* President's award at ShanghaiTech University (Top 0.27%=2/717).
 * SemEval 2022 [Best System Paper](https://semeval.github.io/SemEval2022/awards).
 * National Scholarship: for outstanding student in 2021.
 * [Excellent Intern](https://damo.alibaba.com/events/114): for outstanding interns at Alibaba Group in 2020.
