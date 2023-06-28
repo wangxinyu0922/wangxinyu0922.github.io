@@ -14,7 +14,7 @@ Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [C
 
 ## News:
 
-**2023-06** I got president award at ShanghaiTech University, which is Top 2 out of all 717 graduate students.
+**2023-06** I got president's award at ShanghaiTech University, which is Top 2 out of all 717 graduate students.
 
 **2022-10** Our paper [Named Entity and Relation Extraction with Multi-Modal Retrieval](https://aclanthology.org/2022.findings-emnlp.437/) was accepted to the Findings of EMNLP 2022!
 
