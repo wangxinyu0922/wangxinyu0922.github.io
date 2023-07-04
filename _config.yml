@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyu Wang's Site"
 title_separator          : "-"
 name                     : &name "Xinyu Wang"
-description              : &description "Ph.D. candidate at ShanghaiTech University"
+description              : &description "Researcher at Alibaba DAMO Academy"
 url                      : https://wangxinyu0922.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangxinyu0922/wangxinyu0922.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xinyu Wang (王新宇)"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D. candidate in Computer Science at ShanghaiTech University"
-  location         : "Shanghai, China"
+  bio              : "Researcher at Alibaba DAMO Academy"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=G33Cf7gAAAAJ&hl=en"
   semanticscholar    : "https://www.semanticscholar.org/author/Xinyu-Wang/47120498"
-  email            : "wangxy1@shanghaitech.edu.cn"
+  email            : "tomas.wxy@alibaba-inc.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
