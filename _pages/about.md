@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I work at [Alibaba DAMO Academy](https://damo.alibaba.com/). I received my Ph.D. degree from ShanghaiTech University in 2023. I was advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on **Structured Prediction** ([Syntactic](https://wangxinyu0922.github.io/publication/aacl-2020-second)/[Semantic](https://wangxinyu0922.github.io/publication/acl-2019-second) Dependency Parsing, [Sequence Labeling](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) (such as [Named Entity Recognition](https://wangxinyu0922.github.io/publication/acl-2021-retrieval)), [Neural Architecture Search](https://wangxinyu0922.github.io/publication/acl-2021-ace) in structured prediction), [**Knowledge Distillation**](https://wangxinyu0922.github.io/publication/acl-2021-structural) and [**Multilingual NLP**](https://wangxinyu0922.github.io/publication/acl-2020-structure). Before I received my Ph.D., I visited [Prof. Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei)'s lab as a visiting research fellow at [SUTD](https://istd.sutd.edu.sg/). <!-- Previously, I was interning at the Alibaba Damo Academy and collaborating with [Yong Jiang](http://jiangyong.site). Before I'm visiting [Prof. Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei)'s lab as a visiting research fellow at [SUTD](https://istd.sutd.edu.sg/). -->
+Currently, I work at Alibaba Tongyi Lab. I received my Ph.D. degree from ShanghaiTech University in 2023. I was advised by [Prof. Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). My researches are mainly focused on **Retrieval-Augmented Generation (RAG)**, including RAG for textual LLMs and multi-modal LLMs. Before I received my Ph.D., my researches are mainly focused on **Structured Prediction** ([Syntactic](https://wangxinyu0922.github.io/publication/aacl-2020-second)/[Semantic](https://wangxinyu0922.github.io/publication/acl-2019-second) Dependency Parsing, [Sequence Labeling](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) (such as [Named Entity Recognition](https://wangxinyu0922.github.io/publication/acl-2021-retrieval)), [Neural Architecture Search](https://wangxinyu0922.github.io/publication/acl-2021-ace) in structured prediction), [**Knowledge Distillation**](https://wangxinyu0922.github.io/publication/acl-2021-structural) and [**Multilingual NLP**](https://wangxinyu0922.github.io/publication/acl-2020-structure). I visited [Prof. Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei)'s lab as a visiting research fellow at [SUTD](https://istd.sutd.edu.sg/). <!-- Previously, I was interning at the Alibaba Damo Academy and collaborating with [Yong Jiang](http://jiangyong.site). Before I'm visiting [Prof. Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei)'s lab as a visiting research fellow at [SUTD](https://istd.sutd.edu.sg/). -->
 
 Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [CV](https://wangxinyu0922.github.io/cv/).
 
+I am currently **hiring** self-motivated researchers and interns in Hangzhou. Please feel free to contact me with your resume. [tomas.wxy\@alibaba-inc.com](mailto:tomas.wxy@alibaba-inc.com?subject=Test)
+
 ## News:
+
+**2024-04** Our new book *Hands-On Natural Language Processing* (《动手学自然语言处理》) is released! It is an introductory book on natural language processing in Chinese. [Book Link](https://u.jd.com/Xqyw6YA)
+
+It is a foundamental book for NLP
+
+**2023-12** I got outstanding Ph.D. thesis nomination of CIPS (Chinese Information Processing Society of China).
 
 **2023-06** I got president's award at ShanghaiTech University, which is Top 2 out of all 717 graduate students.
 
