@@ -16,9 +16,7 @@ I am currently **hiring** self-motivated researchers and interns in Hangzhou. Pl
 
 ## News:
 
-**2024-04** Our new book *Hands-On Natural Language Processing* (《动手学自然语言处理》) is released! It is an introductory book on natural language processing in Chinese. [Book Link](https://u.jd.com/Xqyw6YA)
-
-It is a foundamental book for NLP
+**2024-04** Our new book **《动手学自然语言处理》** (*Hands-On Natural Language Processing*) is released! It is a Chinese NLP introductory book for beginners. [Book Link](https://u.jd.com/Xqyw6YA)
 
 **2023-12** I got outstanding Ph.D. thesis nomination of CIPS (Chinese Information Processing Society of China).
 
