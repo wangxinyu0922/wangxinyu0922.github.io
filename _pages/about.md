@@ -12,7 +12,7 @@ Currently, I work at Alibaba Tongyi Lab. I received my Ph.D. degree from Shangha
 
 Here are my [Publications](https://wangxinyu0922.github.io/publications/) and [CV](https://wangxinyu0922.github.io/cv/).
 
-I am currently **hiring** self-motivated researchers and interns in Hangzhou. Please feel free to contact me with your resume. [tomas.wxy\@alibaba-inc.com](mailto:tomas.wxy@alibaba-inc.com?subject=Test)
+I am currently **hiring** self-motivated researchers and interns in **Shanghai** and **Hangzhou**. Please feel free to contact me with your resume. [tomas.wxy@alibaba-inc.com](mailto:tomas.wxy@alibaba-inc.com?subject=Test)
 
 ## News:
 
